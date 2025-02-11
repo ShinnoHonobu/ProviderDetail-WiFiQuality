@@ -9,6 +9,7 @@ Group 2 :
 
 ## Why we need to Analyze?
 Analyzing mobile network providers and WiFi quality is crucial for ensuring a stable, fast, and reliable connection in different locations. Here’s why it matters:
+
 **1. Ensuring Good Mobile Network Connectivity**
 - Better Call Quality & Data Speed → Identifying which provider offers the best signal strength (RSSI, RSRP, RSRQ, SINR) for smoother calls and faster internet.
 - Coverage Optimization → Helps users decide which provider works best in a specific area (home, office, or outdoors).
