@@ -64,8 +64,14 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 **3. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang cukup jauh**
 
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin
+   - **Rizky & Rizki** : WiFi dengan SSID @net-unsri-newBB (7c:57:3c:e1:8c:30) beroperasi pada frekuensi 5 GHz, dengan Channel 52 (58) dan frekuensi pusat 5260 MHz. Lebar kanalnya adalah 80 MHz, yang memungkinkan kecepatan transfer data lebih tinggi dibandingkan jaringan 2.4 GHz. Sinyal WiFi ini memiliki kekuatan -75 dBm, yang menunjukkan sinyal dalam kategori sedang hingga lemah. Perkiraan jarak dari sumber sinyal ke perangkat sekitar 25,5 meter.
+   - **Gavin** :
+   - **Fery** : 
 
 **4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router**
 
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin
+   - **Rizky & Rizki** : Kekuatan sinyal yang terdeteksi sebesar -50 dBm, menunjukkan koneksi yang sangat baik karena perangkat berada dalam jarak dekat, sekitar 1.4 meter dari titik akses. 
+   - **Gavin** :
+   - **Fery** : 
 
