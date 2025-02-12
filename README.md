@@ -32,8 +32,12 @@ Analyzing mobile network providers and WiFi quality is crucial for ensuring a st
 
 ## Tools used for Analyzing
 
-Here, we use 2 tools to help us to analyze the provider's detail and WiFi's quality, which are :
+Here, we use 3 tools to help us to analyze the provider's detail and WiFi's quality, which are :
 
-**- Network Cell Info**
+**- Network Cell Info**, to know to detail's of provider used
 
-**- Wifi Analyzer**
+**- CellMap**, to know the location of BTS Tower of the provider
+
+**- Wifi Analyzer**, to know the used WiFi's strength
+
+## Step-by-Step
