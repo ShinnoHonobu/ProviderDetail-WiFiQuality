@@ -52,11 +52,15 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 3. Melakukan analisis data seluler dengan **Network Cell Provider** di dekat tower BTS
 
    Dalam kasus ini, provider yang digunakan adalah XL-Axiata
+   - Rizky Ramadhan : Pada SIM 1, kualitas sinyal ditunjukkan oleh tiga parameter utama, yaitu RSRP, RSSNR, dan RSRQ. RSRP (Reference Signal Received Power) bernilai -74 dBm, yang menunjukkan sinyal cukup kuat karena berada dalam rentang yang masih baik untuk koneksi LTE (idealnya di atas -80 dBm). RSSNR (Reference Signal Signal-to-Noise Ratio) memiliki nilai 0.8, yang berarti terdapat sedikit noise dalam sinyal, tetapi masih bisa digunakan dengan cukup stabil (nilai ideal untuk koneksi lancar biasanya di atas 5 dB). Sementara itu, RSRQ (Reference Signal Received Quality) bernilai -11 dB, yang menandakan kualitas sinyal dalam kategori sedang, di mana semakin mendekati 0 dB semakin baik. Dengan kondisi ini, sinyal SIM 1 cukup baik untuk aktivitas internet dan komunikasi, meskipun bisa mengalami sedikit gangguan jika noise meningkat atau sinyal melemah.
+   - M Rizki Febrian :
+   - Fery Dwi Darmawan :
+   - M Gavin Hawwari : 
 
-4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang cukup jauh
+5. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang cukup jauh
 
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan 
 
-5. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router
+6. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router
 
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan
