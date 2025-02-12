@@ -47,6 +47,8 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 
 **1. Melakukan analisis data seluler dengan **Network Cell Provider** di rumah**
 
+
+
    Dalam kasus ini, provider yang digunakan adalah XL-Axiata, Telkomsel, dan 3
    - **Rizky Ramadhan** : SIM 1 dengan operator 3 (Tri) memiliki RSRP sebesar -91 dBm, yang menunjukkan sinyal dalam kategori sedang. RSSNR bernilai 0.4 dB, yang sangat rendah, sehingga kemungkinan besar koneksi mengalami gangguan akibat noise yang tinggi. RSRQ memiliki nilai -17 dB, yang menandakan kualitas sinyal buruk. Secara keseluruhan, meskipun kekuatan sinyal cukup, kualitas jaringan kurang optimal dan bisa menyebabkan koneksi tidak stabil.
    - **M Rizki Febrian** : SIM 1 dengan operator XL memiliki RSRP sebesar -87 dBm, yang menunjukkan sinyal cukup baik. RSSNR bernilai 0.3 dB, yang tergolong sangat rendah, sehingga dapat menyebabkan gangguan koneksi. RSRQ berada di angka -12 dB, yang menunjukkan kualitas sinyal sedang. Secara keseluruhan, sinyal masih dapat digunakan dengan baik, tetapi kemungkinan terjadi gangguan akibat nilai RSSNR yang rendah.
@@ -54,6 +56,8 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
    - **M Gavin Hawwari** : SIM 1 dengan operator Telkomsel memiliki RSRP sebesar -80 dBm, yang menunjukkan sinyal dalam kondisi baik. RSSNR bernilai 5.0 dB, yang cukup stabil untuk koneksi data, meskipun tidak terlalu tinggi. RSRQ berada di angka -11 dB, yang menunjukkan kualitas sinyal dalam kategori sedang. Secara keseluruhan, jaringan Telkomsel pada SIM 1 memiliki kekuatan sinyal yang baik dengan kualitas yang cukup stabil untuk digunakan.
 
 **2. Melakukan analisis data seluler dengan **Network Cell Provider** di dekat tower BTS**
+
+
 
    Dalam kasus ini, provider yang digunakan adalah XL-Axiata, Telkomsel, dan 3
    - **Rizky Ramadhan** : Pada SIM 1, kualitas sinyal ditunjukkan oleh tiga parameter utama, yaitu RSRP, RSSNR, dan RSRQ. RSRP (Reference Signal Received Power) bernilai -74 dBm, yang menunjukkan sinyal cukup kuat karena berada dalam rentang yang masih baik untuk koneksi LTE (idealnya di atas -80 dBm). RSSNR (Reference Signal Signal-to-Noise Ratio) memiliki nilai 0.8, yang berarti terdapat sedikit noise dalam sinyal, tetapi masih bisa digunakan dengan cukup stabil (nilai ideal untuk koneksi lancar biasanya di atas 5 dB). Sementara itu, RSRQ (Reference Signal Received Quality) bernilai -11 dB, yang menandakan kualitas sinyal dalam kategori sedang, di mana semakin mendekati 0 dB semakin baik. Dengan kondisi ini, sinyal SIM 1 cukup baik untuk aktivitas internet dan komunikasi, meskipun bisa mengalami sedikit gangguan jika noise meningkat atau sinyal melemah.
@@ -63,12 +67,16 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 
 **3. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang cukup jauh**
 
+
+
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin
    - **Rizky & Rizki** : WiFi dengan SSID @net-unsri-newBB (7c:57:3c:e1:8c:30) beroperasi pada frekuensi 5 GHz, dengan Channel 52 (58) dan frekuensi pusat 5260 MHz. Lebar kanalnya adalah 80 MHz, yang memungkinkan kecepatan transfer data lebih tinggi dibandingkan jaringan 2.4 GHz. Sinyal WiFi ini memiliki kekuatan -75 dBm, yang menunjukkan sinyal dalam kategori sedang hingga lemah. Perkiraan jarak dari sumber sinyal ke perangkat sekitar 25,5 meter.
    - **Gavin** : WiFi **Gavin2004** bekerja pada frekuensi **2.4 GHz**, menggunakan **Channel 8** dengan frekuensi pusat **2447 MHz** dan lebar kanal **20 MHz**. Sinyal tersebut terdeteksi dengan kekuatan -75 dBm, yang menunjukkan sinyal lemah tetapi masih bisa digunakan, dengan jarak sekitar 55 meter dari sumbernya. Selain itu, kecepatan koneksi yang ditampilkan adalah 19 Mbps, yang cukup untuk browsing dan streaming ringan tetapi mungkin mengalami gangguan jika terlalu jauh dari router atau ada banyak interferensi dari jaringan lain.
    - **Fery** : 
 
 **4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router**
+
+
 
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin
    - **Rizky & Rizki** : Kekuatan sinyal yang terdeteksi sebesar -50 dBm, menunjukkan koneksi yang sangat baik karena perangkat berada dalam jarak dekat, sekitar 1.4 meter dari titik akses. 
