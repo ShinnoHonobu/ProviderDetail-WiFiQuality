@@ -65,13 +65,13 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin
    - **Rizky & Rizki** : WiFi dengan SSID @net-unsri-newBB (7c:57:3c:e1:8c:30) beroperasi pada frekuensi 5 GHz, dengan Channel 52 (58) dan frekuensi pusat 5260 MHz. Lebar kanalnya adalah 80 MHz, yang memungkinkan kecepatan transfer data lebih tinggi dibandingkan jaringan 2.4 GHz. Sinyal WiFi ini memiliki kekuatan -75 dBm, yang menunjukkan sinyal dalam kategori sedang hingga lemah. Perkiraan jarak dari sumber sinyal ke perangkat sekitar 25,5 meter.
-   - **Gavin** :
+   - **Gavin** : WiFi **Gavin2004** bekerja pada frekuensi **2.4 GHz**, menggunakan **Channel 8** dengan frekuensi pusat **2447 MHz** dan lebar kanal **20 MHz**. Sinyal tersebut terdeteksi dengan kekuatan -75 dBm, yang menunjukkan sinyal lemah tetapi masih bisa digunakan, dengan jarak sekitar 55 meter dari sumbernya. Selain itu, kecepatan koneksi yang ditampilkan adalah 19 Mbps, yang cukup untuk browsing dan streaming ringan tetapi mungkin mengalami gangguan jika terlalu jauh dari router atau ada banyak interferensi dari jaringan lain.
    - **Fery** : 
 
 **4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router**
 
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin
    - **Rizky & Rizki** : Kekuatan sinyal yang terdeteksi sebesar -50 dBm, menunjukkan koneksi yang sangat baik karena perangkat berada dalam jarak dekat, sekitar 1.4 meter dari titik akses. 
-   - **Gavin** :
+   - **Gavin** : Kekuatan sinyal yang terdeteksi adalah **-46 dBm**, menunjukkan kualitas sinyal yang sangat baik karena perangkat penerima berada dalam jarak sekitar **2 meter** dari sumber WiFi. Dengan kualitas sinyal seperti ini, koneksi internet dari jaringan Gavin2004 kemungkinan besar stabil dan memiliki kecepatan yang optimal.
    - **Fery** : 
 
