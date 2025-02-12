@@ -41,3 +41,10 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 **- Wifi Analyzer**, to know the used WiFi's strength
 
 ## Step-by-Step
+1. Melakukan analisis data seluler dengan Network Cell Provider di rumah
+   ![WhatsApp Image 2025-02-12 at 19 54 54_e16fdc44](https://github.com/user-attachments/assets/695d74c6-7a10-4f56-a6f1-c09412f59dfc)
+Dalam kasus ini, provider yang digunakan adalah XL-Axiata
+
+2. Melakukan analisis data seluler dengan Network Cell Provider di dekat tower BTS
+    ![WhatsApp Image 2025-02-12 at 19 54 54_5b208ed6](https://github.com/user-attachments/assets/7e9721ab-4256-463f-a3c9-fca319920f09)
+Dalam kasus ini, provider yang digunakan adalah XL-Axiata
