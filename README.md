@@ -41,12 +41,22 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 **- Wifi Analyzer**, to know the used WiFi's strength
 
 ## Step-by-Step
-1. Melakukan analisis data seluler dengan Network Cell Provider di rumah
-   ![WhatsApp Image 2025-02-12 at 21 21 33_e480720d](https://github.com/user-attachments/assets/58b77562-af5d-4377-b919-42ec9fda9f51)
+0. Menggunakan **CellMap** untuk memastikan lokasi dari Tower BTS Terdekat
+
+   CellMap digunakan untuk memprakirakan lokasi Tower BTS terdekat dari suatu provider
+
+2. Melakukan analisis data seluler dengan **Network Cell Provider** di rumah
+
+   Dalam kasus ini, provider yang digunakan adalah XL-Axiata, Telkomsel, dan 3
+
+3. Melakukan analisis data seluler dengan **Network Cell Provider** di dekat tower BTS
 
    Dalam kasus ini, provider yang digunakan adalah XL-Axiata
 
-2. Melakukan analisis data seluler dengan Network Cell Provider di dekat tower BTS
-   ![WhatsApp Image 2025-02-12 at 21 21 33_2ab819a3](https://github.com/user-attachments/assets/202a9481-b7e9-4d24-80f4-cbad397da293)
+4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang cukup jauh
 
-   Dalam kasus ini, provider yang digunakan adalah XL-Axiata
+   WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan 
+
+5. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router
+
+   WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan
