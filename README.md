@@ -41,30 +41,31 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 **- Wifi Analyzer**, to know the used WiFi's strength
 
 ## Step-by-Step
-0. Menggunakan **CellMap** untuk memastikan lokasi dari Tower BTS Terdekat
+**0. Menggunakan **CellMap** untuk memastikan lokasi dari Tower BTS Terdekat**
 
    CellMap digunakan untuk memprakirakan lokasi Tower BTS terdekat dari suatu provider
 
-2. Melakukan analisis data seluler dengan **Network Cell Provider** di rumah
+**1. Melakukan analisis data seluler dengan **Network Cell Provider** di rumah**
 
    Dalam kasus ini, provider yang digunakan adalah XL-Axiata, Telkomsel, dan 3
-   - Rizky Ramadhan : SIM 1 dengan operator 3 (Tri) memiliki RSRP sebesar -91 dBm, yang menunjukkan sinyal dalam kategori sedang. RSSNR bernilai 0.4 dB, yang sangat rendah, sehingga kemungkinan besar koneksi mengalami gangguan akibat noise yang tinggi. RSRQ memiliki nilai -17 dB, yang menandakan kualitas sinyal buruk. Secara keseluruhan, meskipun kekuatan sinyal cukup, kualitas jaringan kurang optimal dan bisa menyebabkan koneksi tidak stabil.
-   - M Rizki Febrian : SIM 1 dengan operator XL memiliki RSRP sebesar -87 dBm, yang menunjukkan sinyal cukup baik. RSSNR bernilai 0.3 dB, yang tergolong sangat rendah, sehingga dapat menyebabkan gangguan koneksi. RSRQ berada di angka -12 dB, yang menunjukkan kualitas sinyal sedang. Secara keseluruhan, sinyal masih dapat digunakan dengan baik, tetapi kemungkinan terjadi gangguan akibat nilai RSSNR yang rendah.
-   - Fery Dwi Darmawan :
-   - M Gavin Hawwari : SIM 1 dengan operator Telkomsel memiliki RSRP sebesar -80 dBm, yang menunjukkan sinyal dalam kondisi baik. RSSNR bernilai 5.0 dB, yang cukup stabil untuk koneksi data, meskipun tidak terlalu tinggi. RSRQ berada di angka -11 dB, yang menunjukkan kualitas sinyal dalam kategori sedang. Secara keseluruhan, jaringan Telkomsel pada SIM 1 memiliki kekuatan sinyal yang baik dengan kualitas yang cukup stabil untuk digunakan.
+   - **Rizky Ramadhan** : SIM 1 dengan operator 3 (Tri) memiliki RSRP sebesar -91 dBm, yang menunjukkan sinyal dalam kategori sedang. RSSNR bernilai 0.4 dB, yang sangat rendah, sehingga kemungkinan besar koneksi mengalami gangguan akibat noise yang tinggi. RSRQ memiliki nilai -17 dB, yang menandakan kualitas sinyal buruk. Secara keseluruhan, meskipun kekuatan sinyal cukup, kualitas jaringan kurang optimal dan bisa menyebabkan koneksi tidak stabil.
+   - **M Rizki Febrian** : SIM 1 dengan operator XL memiliki RSRP sebesar -87 dBm, yang menunjukkan sinyal cukup baik. RSSNR bernilai 0.3 dB, yang tergolong sangat rendah, sehingga dapat menyebabkan gangguan koneksi. RSRQ berada di angka -12 dB, yang menunjukkan kualitas sinyal sedang. Secara keseluruhan, sinyal masih dapat digunakan dengan baik, tetapi kemungkinan terjadi gangguan akibat nilai RSSNR yang rendah.
+   - **Fery Dwi Darmawan** :
+   - **M Gavin Hawwari** : SIM 1 dengan operator Telkomsel memiliki RSRP sebesar -80 dBm, yang menunjukkan sinyal dalam kondisi baik. RSSNR bernilai 5.0 dB, yang cukup stabil untuk koneksi data, meskipun tidak terlalu tinggi. RSRQ berada di angka -11 dB, yang menunjukkan kualitas sinyal dalam kategori sedang. Secara keseluruhan, jaringan Telkomsel pada SIM 1 memiliki kekuatan sinyal yang baik dengan kualitas yang cukup stabil untuk digunakan.
 
-4. Melakukan analisis data seluler dengan **Network Cell Provider** di dekat tower BTS
+**2. Melakukan analisis data seluler dengan **Network Cell Provider** di dekat tower BTS**
 
    Dalam kasus ini, provider yang digunakan adalah XL-Axiata, Telkomsel, dan 3
-   - Rizky Ramadhan : Pada SIM 1, kualitas sinyal ditunjukkan oleh tiga parameter utama, yaitu RSRP, RSSNR, dan RSRQ. RSRP (Reference Signal Received Power) bernilai -74 dBm, yang menunjukkan sinyal cukup kuat karena berada dalam rentang yang masih baik untuk koneksi LTE (idealnya di atas -80 dBm). RSSNR (Reference Signal Signal-to-Noise Ratio) memiliki nilai 0.8, yang berarti terdapat sedikit noise dalam sinyal, tetapi masih bisa digunakan dengan cukup stabil (nilai ideal untuk koneksi lancar biasanya di atas 5 dB). Sementara itu, RSRQ (Reference Signal Received Quality) bernilai -11 dB, yang menandakan kualitas sinyal dalam kategori sedang, di mana semakin mendekati 0 dB semakin baik. Dengan kondisi ini, sinyal SIM 1 cukup baik untuk aktivitas internet dan komunikasi, meskipun bisa mengalami sedikit gangguan jika noise meningkat atau sinyal melemah.
-   - M Rizki Febrian : Pada SIM 1, kualitas sinyal diukur menggunakan tiga parameter utama yaitu RSRP, RSSNR, dan RSRQ. RSRP bernilai -82 dBm, yang menunjukkan bahwa sinyal berada dalam kategori cukup baik untuk jaringan LTE, meskipun tidak terlalu kuat (nilai yang lebih tinggi, mendekati 0 dBm, lebih baik). RSSNR memiliki nilai 0.0, yang berarti sinyal mengalami gangguan noise yang cukup tinggi, sehingga dapat mempengaruhi stabilitas koneksi data. RSRQ tercatat -13 dB, yang menunjukkan kualitas sinyal dalam kategori kurang baik, karena semakin mendekati 0 dB semakin bagus. Dengan kondisi ini, meskipun kekuatan sinyal masih cukup memadai, gangguan noise yang tinggi dapat menyebabkan koneksi internet menjadi tidak stabil atau mengalami penurunan kecepatan.
-   - Fery Dwi Darmawan :
-   - M Gavin Hawwari : Informasi mengenai SIM 1 menunjukkan parameter kualitas sinyal jaringan LTE+ dari operator Telkomsel. RSRP (Reference Signal Received Power) memiliki nilai -117 dBm, yang menunjukkan kekuatan sinyal yang lemah karena semakin kecil nilai dBm, semakin lemah sinyalnya. RSSNR (Reference Signal Signal-to-Noise Ratio) bernilai -1 dB, yang berarti rasio sinyal terhadap noise rendah dan dapat menyebabkan gangguan dalam komunikasi data. RSRQ (Reference Signal Received Quality) memiliki nilai -19 dB, yang menunjukkan kualitas sinyal yang buruk, karena semakin rendah nilainya, semakin buruk kualitas koneksi
+   - **Rizky Ramadhan** : Pada SIM 1, kualitas sinyal ditunjukkan oleh tiga parameter utama, yaitu RSRP, RSSNR, dan RSRQ. RSRP (Reference Signal Received Power) bernilai -74 dBm, yang menunjukkan sinyal cukup kuat karena berada dalam rentang yang masih baik untuk koneksi LTE (idealnya di atas -80 dBm). RSSNR (Reference Signal Signal-to-Noise Ratio) memiliki nilai 0.8, yang berarti terdapat sedikit noise dalam sinyal, tetapi masih bisa digunakan dengan cukup stabil (nilai ideal untuk koneksi lancar biasanya di atas 5 dB). Sementara itu, RSRQ (Reference Signal Received Quality) bernilai -11 dB, yang menandakan kualitas sinyal dalam kategori sedang, di mana semakin mendekati 0 dB semakin baik. Dengan kondisi ini, sinyal SIM 1 cukup baik untuk aktivitas internet dan komunikasi, meskipun bisa mengalami sedikit gangguan jika noise meningkat atau sinyal melemah.
+   - **M Rizki Febrian** : Pada SIM 1, kualitas sinyal diukur menggunakan tiga parameter utama yaitu RSRP, RSSNR, dan RSRQ. RSRP bernilai -82 dBm, yang menunjukkan bahwa sinyal berada dalam kategori cukup baik untuk jaringan LTE, meskipun tidak terlalu kuat (nilai yang lebih tinggi, mendekati 0 dBm, lebih baik). RSSNR memiliki nilai 0.0, yang berarti sinyal mengalami gangguan noise yang cukup tinggi, sehingga dapat mempengaruhi stabilitas koneksi data. RSRQ tercatat -13 dB, yang menunjukkan kualitas sinyal dalam kategori kurang baik, karena semakin mendekati 0 dB semakin bagus. Dengan kondisi ini, meskipun kekuatan sinyal masih cukup memadai, gangguan noise yang tinggi dapat menyebabkan koneksi internet menjadi tidak stabil atau mengalami penurunan kecepatan.
+   - **Fery Dwi Darmawan** :
+   - **M Gavin Hawwari** : Informasi mengenai SIM 1 menunjukkan parameter kualitas sinyal jaringan LTE+ dari operator Telkomsel. RSRP (Reference Signal Received Power) memiliki nilai -117 dBm, yang menunjukkan kekuatan sinyal yang lemah karena semakin kecil nilai dBm, semakin lemah sinyalnya. RSSNR (Reference Signal Signal-to-Noise Ratio) bernilai -1 dB, yang berarti rasio sinyal terhadap noise rendah dan dapat menyebabkan gangguan dalam komunikasi data. RSRQ (Reference Signal Received Quality) memiliki nilai -19 dB, yang menunjukkan kualitas sinyal yang buruk, karena semakin rendah nilainya, semakin buruk kualitas koneksi
 
-5. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang cukup jauh
+**3. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang cukup jauh**
 
-   WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan 
+   WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin
 
-6. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router
+**4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router**
 
-   WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan
+   WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin
+
