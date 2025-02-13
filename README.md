@@ -47,6 +47,7 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 
 **1. Melakukan analisis data seluler dengan **Network Cell Provider** di rumah**
 
+![1](https://github.com/user-attachments/assets/46ed8c97-f20e-4c23-8cd7-0d5407fe5b7d)
 
 
    Dalam kasus ini, provider yang digunakan adalah XL-Axiata, Telkomsel, dan 3
@@ -56,6 +57,10 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
    - **M Gavin Hawwari** : SIM 1 dengan operator Telkomsel memiliki RSRP sebesar -80 dBm, yang menunjukkan sinyal dalam kondisi baik. RSSNR bernilai 5.0 dB, yang cukup stabil untuk koneksi data, meskipun tidak terlalu tinggi. RSRQ berada di angka -11 dB, yang menunjukkan kualitas sinyal dalam kategori sedang. Secara keseluruhan, jaringan Telkomsel pada SIM 1 memiliki kekuatan sinyal yang baik dengan kualitas yang cukup stabil untuk digunakan.
 
 **2. Melakukan analisis data seluler dengan **Network Cell Provider** di dekat tower BTS**
+
+![2](https://github.com/user-attachments/assets/7ecaeede-c357-4ad6-b557-53ae6c9200e2)
+
+![3](https://github.com/user-attachments/assets/fa488001-43d0-4bd7-ac53-7ac5d8f84e42)
 
 
 
@@ -67,6 +72,7 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
 
 **3. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang cukup jauh**
 
+![5](https://github.com/user-attachments/assets/6e0c053e-f52d-4d1f-a929-c5b3f01d3ef7)
 
 
    WiFi yang dianalisis yaitu WiFi @net-unsri-BB di Gedung Diploma Universitas Sriwijaya, dan Indihome di Rumah Gavin, serta di sekitar Kos Fery
@@ -75,6 +81,10 @@ Here, we use 3 tools to help us to analyze the provider's detail and WiFi's qual
    - **Fery** :  Wifi **Delphinium** yang memiliki frekuens **2.4GHz**, menggunakan **Channel 9** lebar kanal **20 MHz**. Sinyal tersebut terdeteksi dengan kekuatan -76 dBm, yang menunjukkan sinyal dalam kategori sedang hingga lemah. Perkiraan jarak dari sumber sinyal ke perangkat sekitar 61 meter.
 
 **4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak yang dekat dengan router**
+
+![4](https://github.com/user-attachments/assets/681d8ff2-3442-4ec6-b708-26167aa12685)
+
+![6](https://github.com/user-attachments/assets/3d80fb98-702f-4b83-9cd6-63936bef9910)
 
 
 
